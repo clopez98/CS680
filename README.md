@@ -1,0 +1,1 @@
+To run all ant scripts, run the command `ant run`. Use `ant clean` to clean.
